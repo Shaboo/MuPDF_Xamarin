@@ -1,0 +1,10 @@
+com.artifex.mupdfdemo.Annotation$Type:Artifex.MuPdf:Annotation.Type
+com.artifex.mupdfdemo.AsyncTask$Status:Artifex.MuPdf:AsyncTask.Status
+com.artifex.mupdfdemo.ChoosePDFItem$Type:Artifex.MuPdf:ChoosePDFItem.Type
+com.artifex.mupdfdemo.MuPDFActivity$AcceptMode:Artifex.MuPdf:MuPDFActivity.AcceptMode
+com.artifex.mupdfdemo.MuPDFActivity$TopBarMode:Artifex.MuPdf:MuPDFActivity.TopBarMode
+com.artifex.mupdfdemo.MuPDFAlert$ButtonGroupType:Artifex.MuPdf:MuPDFAlert.ButtonGroupType
+com.artifex.mupdfdemo.MuPDFAlert$ButtonPressed:Artifex.MuPdf:MuPDFAlert.ButtonPressed
+com.artifex.mupdfdemo.MuPDFAlert$IconType:Artifex.MuPdf:MuPDFAlert.IconType
+com.artifex.mupdfdemo.MuPDFReaderView$Mode:Artifex.MuPdf:MuPDFReaderView.Mode
+com.artifex.mupdfdemo.WidgetType:Artifex.MuPdf:WidgetType

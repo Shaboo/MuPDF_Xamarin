@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.Annotation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.ArrayDeque.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.AsyncTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.CancellableAsyncTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.ChoosePDFActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.ChoosePDFAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.ChoosePDFItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.FilePicker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.ICancellableTaskDefinition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.IDeque.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.IMuPDFView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.LinkInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.LinkInfoExternal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.LinkInfoInternal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.LinkInfoRemote.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.LinkInfoVisitor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFAlert.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFAlertInternal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFCancellableTaskDefinition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFCore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFPageAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFPageView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFReaderView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFReflowAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.MuPDFReflowView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.OutlineActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.OutlineActivityData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.OutlineAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.OutlineItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.PageView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.PrintDialogActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.ReaderView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.SafeAnimatorInflater.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.SearchTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.SearchTaskResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.Separation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.Stepper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.TextChar.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.TextWord.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Artifex.MuPdf.WidgetType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

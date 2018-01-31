@@ -1,0 +1,6 @@
+C:\Git\AirSupportMobile_GIT\CrewBriefingForms\MuPdfibrary\bin\Release\MuPdfibrary.dll
+C:\Git\AirSupportMobile_GIT\CrewBriefingForms\MuPdfibrary\bin\Release\MuPdfibrary.pdb
+C:\Git\AirSupportMobile_GIT\CrewBriefingForms\MuPdfibrary\obj\Release\MuPdfibrary.csprojResolveAssemblyReference.cache
+C:\Git\AirSupportMobile_GIT\CrewBriefingForms\MuPdfibrary\obj\Release\MuPdfibrary.csproj.CoreCompileInputs.cache
+C:\Git\AirSupportMobile_GIT\CrewBriefingForms\MuPdfibrary\obj\Release\MuPdfibrary.dll
+C:\Git\AirSupportMobile_GIT\CrewBriefingForms\MuPdfibrary\obj\Release\MuPdfibrary.pdb
